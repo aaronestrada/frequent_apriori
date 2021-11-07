@@ -1,0 +1,4 @@
+recursive-include frequent_apriori *.py
+include setup.py
+include requirements.txt
+include README.md
