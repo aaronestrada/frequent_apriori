@@ -4,6 +4,17 @@ Data mining technique to find frequent pattern using the Apriori algorithm.
 
 For more information about the algorithm, you can find the related work [here](http://www.vldb.org/conf/1994/P487.PDF).
 
+## Installation via PIP
+
+```bash
+$ pip install git+https://github.com/aaronestrada/frequent_apriori@<version>
+```
+
+### Example
+```bash
+$ pip install git+https://github.com/aaronestrada/frequent_apriori@1.0
+```
+
 ## Example of usage
 
 ```python
